@@ -8,7 +8,7 @@ For Raspberry Pi and Linux users, the best way to run this script without managi
 
 ```bash
 # Download the script
-wget [https://raw.githubusercontent.com/Donald-Win/TidyLibrary/main/tidy.py](https://raw.githubusercontent.com/Donald-Win/TidyLibrary/main/tidy.py)
+wget https://raw.githubusercontent.com/Donald-Win/TidyLibrary/main/tidy.py
 
 # Run the script
 python3 tidy.py
