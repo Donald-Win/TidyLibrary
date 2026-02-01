@@ -6,11 +6,13 @@ A Python utility for standardizing and organizing audiobook libraries. This tool
 
 For Raspberry Pi and Linux users, the best way to run this script without managing a full repository is to download the standalone file. This ensures the script can correctly generate its `tidy_library_log.txt` in your current directory.
 
-**Run these commands in your terminal:**
+```bash
+# Download the script
+wget [https://raw.githubusercontent.com/Donald-Win/TidyLibrary/main/tidy.py](https://raw.githubusercontent.com/Donald-Win/TidyLibrary/main/tidy.py)
 
-`wget https://raw.githubusercontent.com/Donald-Win/TidyLibrary/main/tidy.py`
-
-`python3 tidy.py`
+# Run the script
+python3 tidy.py
+```
 
 ## 📂 Organizational Logic
 
